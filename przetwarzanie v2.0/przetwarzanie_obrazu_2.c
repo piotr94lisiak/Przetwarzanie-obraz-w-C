@@ -107,7 +107,7 @@ int main(int argc, char ** argv) {
       fprintf(stderr,"*                                                                                       *\n");
       fprintf(stderr,"*        ./a.out -i obraz.pgm -h -o obraz2.pgm                                          *\n");
       fprintf(stderr,"*---------------------------------------------------------------------------------------*");
-      fprintf(stderr,"\n* [-g liczba]  -   Funkcja wykonujaca progowanie. Musi byc wywolana po wczytaniu        *\n"); 
+      fprintf(stderr,"\n* [-g liczba]  -   Funkcja wykonujaca korekte gamma. Musi byc wywolana po wczytaniu     *\n"); 
       fprintf(stderr,"*                  obrazu oraz przed zapisaniem pliku. Po uzyciu opcji -g nalezy        *\n");
       fprintf(stderr,"*                  podac wartosc parametru gamma. Przykladowe uzycie funkcji:           *\n");
       fprintf(stderr,"*                                                                                       *\n");
